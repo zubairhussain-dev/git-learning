@@ -1,0 +1,29 @@
+[33mcommit 22864b07459a5e598ceb0e167a8b9a14195dc40f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: zubairhussain-dev <zubairhussainemail@gmail.com>
+Date:   Tue Dec 9 23:49:00 2025 +0000
+
+    I have made some changes to files
+
+[33mcommit 8ad2a6e9696575c93d637cd86f418fa1cfb9e752[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Zubair Hussain <zubairhussainemail@gmail.com>
+Date:   Mon Dec 8 23:28:58 2025 +0000
+
+    Add new file Two.txt with initial content
+
+[33mcommit 4b7b1cffb63e4522e8ec4aac2339f74b52a1573a[m
+Author: Zubair Hussain <zubairhussainemail@gmail.com>
+Date:   Mon Dec 8 23:28:33 2025 +0000
+
+    Add One.txt with initial content
+
+[33mcommit 89893ae269b3adf452ef2736b1496568333e2684[m
+Author: zubairhussain-dev <zubairhussainemail@gmail.com>
+Date:   Sun Dec 7 02:07:59 2025 +0000
+
+    Add project folders and .gitignore
+
+[33mcommit d6f886d1f6158a86ee91318a33ecbcd9e61fc2d4[m
+Author: Zubair Hussain <zubairhussainemail@gmail.com>
+Date:   Sun Dec 7 01:50:56 2025 +0000
+
+    Initial commit
